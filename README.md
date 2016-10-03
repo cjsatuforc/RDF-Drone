@@ -1,5 +1,6 @@
 # RDF-Drone
-Radio Direction Finder &amp; Drone - find Amateur Radio frequency origin with a drone -The thoughts of Amateur Radio Equipment for a "fox hunt" that may be portable.   DRONE - DJi Mavic Pro - with a payload of RDF equipment.   RDF equipment reduced down to Raspberry Pi 3 format.   not a traditional (fox hunt) setup,  "**thinking outside the box**"   
+
+Radio Direction Finder &amp; Drone - Locating RF Signal Source - finding Amateur Radio frequencies origin with a drone -The thoughts of Amateur Radio Equipment for a "fox hunt" that may be portable.   DRONE - DJi Mavic Pro - with a payload of RDF equipment.   RDF equipment reduced down to Raspberry Pi 3 format.  Not the traditional Amateur Radio (fox hunt) setup,  "**thinking outside the box**"   
 
 DRONE EXAMPLE - DJi Mavic Pro
 http://www.youtube.com/watch?&v=iPG1Xa5Uqwo
